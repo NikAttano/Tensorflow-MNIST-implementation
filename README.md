@@ -4,4 +4,4 @@ This is my first project in Computer Vision for classifying images into differen
 
 Dataset Link : https://github.com/zalandoresearch/fashion-mnist
 
-Paper Link : a Novel Image Dataset for Benchmarking Machine Learning Algorithms. Han Xiao, Kashif Rasul, Roland Vollgraf. arXiv:1708.07747
+Paper Link : a Novel Image Dataset for Benchmarking Machine Learning Algorithms. Han Xiao, Kashif Rasul, Roland Vollgraf. https://arxiv.org/abs/1708.07747
